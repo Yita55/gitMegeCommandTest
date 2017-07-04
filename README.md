@@ -1,0 +1,2 @@
+# gitMegeCommandTest
+test command
